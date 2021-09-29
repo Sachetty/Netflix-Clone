@@ -1,7 +1,7 @@
 # <p align="center">Clone Netflix</p>
 <p align="center"> Esse projeto é um clone da plataforma de filmes e series Neflix que desenvolvi para estudo de alguns conceitos de design e Front-End</p>
 <p align="center">
-  <a href="#movie_camera-gifs">Gif's</a>
+  <a href="#movie_camera-gifs">Gif's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_pick-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-rodando-o-projeto">Rodando o projeto</a>
