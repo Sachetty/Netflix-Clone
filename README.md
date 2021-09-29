@@ -1,6 +1,7 @@
 # <p align="center">Clone Netflix</p>
 <p align="center"> Esse projeto é um clone da plataforma de filmes e series Neflix que desenvolvi para estudo de alguns conceitos de design e Front-End</p>
 <p align="center">
+  <a href="#movie_camera-gifs">Gif's</a>
   <a href="#hammer_and_pick-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-rodando-o-projeto">Rodando o projeto</a>
@@ -12,7 +13,7 @@
   <img src="https://cdn.discordapp.com/attachments/685272117750530170/892550655363936286/unknown.png" />
 </p>
 
-# 🎥 Gif's
+# :movie_camera: Gif's
 
 <p align="center">
   <img src="https://media.giphy.com/media/uTCoOkau1Qrzgqae1B/giphy.gif?cid=790b7611cf0fde86fae489b135b0151fb5fb581127603b64&rid=giphy.gif&ct=g"  title="Tela inicial">
